@@ -7,11 +7,12 @@ document.write(dia);//15
 document.write("<br>");
 document.write(nota);//9.8
 document.write("<hr>");
-
+document.write(dia + "/" + mes + "/"+ano);
+document.write("<hr>");
 
 /*
 Saída:
-15 março 2022
+15/março/2022
 
 
 */
