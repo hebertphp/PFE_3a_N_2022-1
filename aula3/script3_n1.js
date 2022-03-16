@@ -1,4 +1,5 @@
 var dia, nota, ano, mes, nome;
+var usuario=prompt("Digite o usuario");
 dia=15;
 nota=9.8;
 ano=2022;
@@ -12,6 +13,7 @@ document.write(dia + "/" + mes + "/"+ano);
 document.write("<hr>");
 document.write("Hebert, tirei nota: "+nota);
 document.write("<hr>");
+document.write("Usuario:"+usuario);
 /*
 Saída:
 15/março/2022
