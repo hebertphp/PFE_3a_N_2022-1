@@ -1,6 +1,6 @@
 const pi = 3.14;//declarar a const pi=3.14
 const terca_feira = "Front-End";
-//pi = 5;//
+//pi = 5;
 var x , y;//
 y = 3;
 y = 2;
