@@ -30,6 +30,10 @@ Desafio 1)
 
 Desafio 2)
 
+i=5
+(i>=1)
+i--
+
 5
 4
 3

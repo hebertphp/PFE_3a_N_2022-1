@@ -1,13 +1,15 @@
 var i;
-i=7; // valor inicial
+i=9; // valor inicial
 do{
-    document.write(i + "<br>");
+    document.write(i + " ");
     i++;//contador
-}while (i < 3);//condição
+}while (i < 7);//condição
 /*
-0
-1
-2
+
+
+
+
+
 
 Desafio 1)
 Trocar o valor inicial para 7
