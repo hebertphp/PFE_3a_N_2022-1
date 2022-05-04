@@ -13,5 +13,5 @@ x=[5,78,2021,8,71,130];
 //document.write("<br>"+x);
 document.querySelector(".teste").innerHTML=x;
 
-//msg=", Aula 6";
-//document.querySelector("h1").innerHTML=msg;
+msg=", Aula 6";
+document.querySelector("h1").innerHTML+=msg;
