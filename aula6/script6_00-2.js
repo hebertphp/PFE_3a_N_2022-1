@@ -9,4 +9,4 @@ nome=["João","Abelardo","Belarmina","Pafuncio"];
 
 document.querySelector("#dv1").innerHTML=n;
 document.querySelector(".teste").innerHTML=nome[0]+"<br>"+nome[1];
-//document.querySelector("h2").innerHTML=nome[2];
+document.querySelector("h2").innerHTML=nome[2];

@@ -7,7 +7,6 @@ num[2]=2020;
 
 var nome=new Array("Jose","Paula","Carla");
 
-nota=[];
 document.querySelector("#dv1").innerHTML=nota+"<br>"+num;
 document.querySelector(".teste").innerHTML=nome;
 /*
