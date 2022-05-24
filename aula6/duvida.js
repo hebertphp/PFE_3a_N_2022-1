@@ -9,3 +9,5 @@ document.querySelector("h2").innerHTML+=", "+uf.length;
 class_teste[3].innerHTML=txt;
 document.querySelector("h2").style.color="blue";
 class_teste[1].style.backgroundColor="blue";
+document.querySelector("body").style.backgroundColor="whitesmoke";//azure
+document.querySelector(".img").innerHTML="<img src='img/floresta.jpg'>";
