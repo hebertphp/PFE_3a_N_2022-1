@@ -5,9 +5,8 @@ const tag_h2=document.querySelector("h2");
 
 var notas=[10,9,8];
 var outras_notas=[4,3,2,1];
-// document.write(notas+"<hr>");// var notas direcionar para id="dv"
 id_dv.innerHTML=notas;
-id_dv.style.color="red";
+// id_dv.style.color="red";
 var novas_notas=notas.concat(7,6,5);
 // document.write(novas_notas+"<hr>");//var novas_notas direcionar para class="teste"
 class_teste.innerHTML=novas_notas;
