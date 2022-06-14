@@ -14,7 +14,6 @@ function negrito(txt){
 function titulo2(tit){
     document.write("<h2>"+tit+"</h2>");
 }
-
 titulo2("Título 2!!");
 boas_vindas("Jubileu");//execução, chamada da função
 negrito("Este texto está em negrito");
