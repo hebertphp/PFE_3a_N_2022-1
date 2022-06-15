@@ -3,6 +3,7 @@ function mostra(){
     const id_n1=document.querySelector("#n1");
     const id_n2=document.querySelector("#n2");
     const id_op=document.querySelector("#op");
+    
     id_saida.innerHTML=id_n1.value+"<br>"+id_op.value+"<br>"+id_n2.value;
 }
 
