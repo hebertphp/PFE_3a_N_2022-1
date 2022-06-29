@@ -8,7 +8,7 @@ function par_impar() {
     }
     document.write(msg);
 }
-var x = 28;//escopo global
+var x = 2;//escopo global
 par_impar(); document.write("<hr>");
 var x = 29;//escopo global
 par_impar();
